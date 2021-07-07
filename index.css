@@ -107,13 +107,11 @@ nav span {
 .mainText {
     background-color: #DDB9A3;
     color: rgb(232, 237, 241);
-    border: 1px lightgray;
     width: 80%;
     margin: -3rem 5% 3rem 10%;
     line-height: 1rem;
     letter-spacing: .2rem;
     padding: 1rem;
-    border: 1px solid black;
 }
 
 .embolden {
